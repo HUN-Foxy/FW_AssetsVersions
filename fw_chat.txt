@@ -1,0 +1,1 @@
+{"version":"1.0.2","news":"Sikeresen fixálva lett az adminchat"}
